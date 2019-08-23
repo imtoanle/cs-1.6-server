@@ -1,0 +1,14 @@
+// overview description file for fy_iceage2.bsp
+
+global 
+{
+    ZOOM    2.89
+    ORIGIN    -16.00     40.00    0
+    ROTATED    0
+}
+
+layer 
+{
+    IMAGE    "overviews/fy_iceage2.bmp"
+    HEIGHT    0
+}
